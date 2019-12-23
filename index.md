@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## What does 'fairness' mean in (data protection) law?'
 
-You can use the [editor on GitHub](https://github.com/fat2020tutorials/fairness-in-dp-law/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Fair machine learning aims to embed fairness into the very design of machine learning techniques to reduce the occurrence of unfair outcomes. In other words, the ‘learning processes’ are designed so that the outcome matches what has been pre-defined as ‘fair’. Broadly speaking, most research in this field seeks to protect ‘sensitive attributes’ which normally correspond to the protected grounds in non-discrimination legislation. However, tempting as it may be to pursue such a well-constrained interpretation of ‘fairness’, the concept has a much wider ambit in law. Fairness is a core principle of EU data protection law being grounded in both the right to data protection in Article 8 of the Charter of Fundamental Rights of the European Union and Article 6(1)(a) of the General Data Protection Regulation (GDPR). Nevertheless, despite its key positioning, the precise contours of this principle remain uncertain largely due to its role in the context dependant balancing of competing rights and interests.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The inherent ambiguity of the fairness principle has led, at least implicitly, to two connected strands of analysis namely, literature (1) calling for the alignment of different policy agendas (i.e. such as data protection and consumer protection law), and (2) exploring the relationship between the fairness principle in the GDPR and the role of ‘(AI/data) ethics’ in determining the appropriate uses of personal data. A common thread here is the need to more precisely determine what practices should be deemed de facto unfair. However, as will be explored in this tutorial, the overlaps between these respective areas is far from clear. Against this more doctrinal background the tutorial aims to plot the role of the fairness principle in concrete cases to demonstrate the significant importance, ongoing uncertainties and (more pointedly) broad substantive scope of the principle. The tutorial will demonstrate the application of fairness by focusing in on several “manipulative” practices designed to tease out the role of the principle and the overlaps and interactions with other policy agendas and developments. The aim therefore, is to connect the FAT* community with the legal analysis of fairness in EU law and to then position the limitations of the principle, in light of its jurisdictional constraints, in order to foster interdisciplinary awareness.
 
-### Markdown
+### Who will be delivering this tutorial?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fat2020tutorials/fairness-in-dp-law/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Jef Ausloos, postdoctoral researcher at the University of Amsterdam's Institute for Information law (IViR)
+- Damian Clifford, postdoctoral researcher at the KU Leuven Centre for IT & IP Law
+- Laurence Naudts, PhD student at the KU Leuven Centre for IT & IP Law 
