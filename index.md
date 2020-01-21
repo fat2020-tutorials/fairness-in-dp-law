@@ -4,7 +4,7 @@ Fairness is a core principle of the EU data protection framework. The principle 
 
 In brief, implicit fairness relates to the fact that in order to achieve a ‘fair balance’ in the application of the requirements contained in the GDPR, personal data must not be processed in a way which unreasonably infringes the fundamental rights and freedoms of data subjects and in particular, their right to the protection of personal data. In this vein, fairness manifests itself in the form of both ex ante and ex post micro fair balancing mechanisms. In an ex ante sense the conditions for lawful processing in Article 6(1) GDPR (e.g. consent (Article 6(1)(a)), contract (Article 6(1)(b)) and legitimate interest (Article 6(1)(f)) are a clear example and in an ex post sense fairness manifests itself perhaps most clearly in the operation of key data subject rights. 
 
-**The purpose of this tutorial is to analyse the fairness principle in the GDPR as manifested in both ex ante and ex post rights and requirements. More specifically, the session will explore the role of the conditions for lawful processing and key data subject rights such as the right to object. References will also be made to the overlaps with other overlapping areas (e.g. consumer protection law, constitutional theory etc.)
+The purpose of this tutorial is to analyse the fairness principle in the GDPR as manifested in both ex ante and ex post rights and requirements. More specifically, the session will explore the role of the conditions for lawful processing and key data subject rights such as the right to object. References will also be made to the overlaps with other overlapping areas (e.g. consumer protection law, constitutional theory etc.)
 
 ### Hypothetical case study:
 
