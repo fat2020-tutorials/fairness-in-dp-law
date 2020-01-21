@@ -4,7 +4,7 @@ Fairness is a core principle of the EU data protection framework. The principle 
 
 In brief, implicit fairness relates to the fact that in order to achieve a ‘fair balance’ in the application of the requirements contained in the GDPR, personal data must not be processed in a way which unreasonably infringes the fundamental rights and freedoms of data subjects and in particular, their right to the protection of personal data. In this vein, fairness manifests itself in the form of both ex ante and ex post micro fair balancing mechanisms. In an ex ante sense the conditions for lawful processing in Article 6(1) GDPR (e.g. consent (Article 6(1)(a)), contract (Article 6(1)(b)) and legitimate interest (Article 6(1)(f)) are a clear example and in an ex post sense fairness manifests itself perhaps most clearly in the operation of key data subject rights. 
 
-**The purpose of this tutorial is to analyse the fairness principle in the GDPR as manifested in both ex ante and ex post rights and requirements. More specifically, the session will explore the role of the conditions for lawful processing and key data subject rights such as the right to object. References will also be made to the overlaps with other overlapping areas (e.g. consumer protection law, constitutional theory etc.) **
+**The purpose of this tutorial is to analyse the fairness principle in the GDPR as manifested in both ex ante and ex post rights and requirements. More specifically, the session will explore the role of the conditions for lawful processing and key data subject rights such as the right to object. References will also be made to the overlaps with other overlapping areas (e.g. consumer protection law, constitutional theory etc.)
 
 ### Hypothetical case study:
 
@@ -23,11 +23,11 @@ In brief, implicit fairness relates to the fact that in order to achieve a ‘fa
 
 ### Bibliography 
 
-Damian Clifford, Jef Ausloos; Data Protection and the Role of Fairness, Yearbook of European Law, yey004, https://academic.oup.com/yel/advance- article/doi/10.1093/yel/yey004/5068688?guestAccessKey=063dca87-6591-4be2- b135-b71b8c202cc5 
-Damian Clifford, Inge Graef, & Peggy Valcke, (2019). Pre-formulated Declarations of Data Subject Consent—Citizen-Consumer Empowerment and the Alignment of Data, Consumer and Competition Law Protections. German Law Journal, 20(5), 679-721. https://www.cambridge.org/core/journals/german-law-journal/article/preformulated- declarations-of-data-subject-consentcitizenconsumer-empowerment-and-the- alignment-of-data-consumer-and-competition-law- protections/293BB74ABDC953F88ECB10895755589B 
-Anton Vedder & Laurens Naudts (2017) Accountability for the use of algorithms in a big data environment, International Review of Law, Computers & Technology, 31:2, 206-224. Available at: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2295490 
-Laurens Naudts, (2019). How Machine Learning Generates Unfair Inequalities and How Data Protection Instruments May Help in Mitigating Them. In R. Leenes, R. van Brakel, S. Gutwirth & P. De Hert (Authors), Data Protection and Privacy: The Internet of Bodies (Computers, Privacy and Data Protection, pp. 71–92). Oxford: Hart Publishing. Available at: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2295490 
-Michael Veale, Reuben Binns, Jef Ausloos, When data protection by design and data subject rights clash, International Data Privacy Law, Volume 8, Issue 2, May 2018, Pages 105–123, https://doi.org/10.1093/idpl/ipy002 
+- Damian Clifford, Jef Ausloos; Data Protection and the Role of Fairness, Yearbook of European Law, yey004, https://academic.oup.com/yel/advance- article/doi/10.1093/yel/yey004/5068688?guestAccessKey=063dca87-6591-4be2- b135-b71b8c202cc5 
+- Damian Clifford, Inge Graef, & Peggy Valcke, (2019). Pre-formulated Declarations of Data Subject Consent—Citizen-Consumer Empowerment and the Alignment of Data, Consumer and Competition Law Protections. German Law Journal, 20(5), 679-721. https://www.cambridge.org/core/journals/german-law-journal/article/preformulated-declarations-of-data-subject-consentcitizenconsumer-empowerment-and-the-alignment-of-data-consumer-and-competition-law-protections/293BB74ABDC953F88ECB10895755589B 
+- Anton Vedder & Laurens Naudts (2017) Accountability for the use of algorithms in a big data environment, International Review of Law, Computers & Technology, 31:2, 206-224. Available at: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2295490 
+- Laurens Naudts, (2019). How Machine Learning Generates Unfair Inequalities and How Data Protection Instruments May Help in Mitigating Them. In R. Leenes, R. van Brakel, S. Gutwirth & P. De Hert (Authors), Data Protection and Privacy: The Internet of Bodies (Computers, Privacy and Data Protection, pp. 71–92). Oxford: Hart Publishing. Available at: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2295490 
+- Michael Veale, Reuben Binns, Jef Ausloos, When data protection by design and data subject rights clash, International Data Privacy Law, Volume 8, Issue 2, May 2018, Pages 105–123, https://doi.org/10.1093/idpl/ipy002 
 
 ### Who will be delivering this tutorial?
 
