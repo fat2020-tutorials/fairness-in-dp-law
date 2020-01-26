@@ -33,7 +33,7 @@ The purpose of this tutorial is to analyse the fairness principle in the GDPR as
 
 - Damian Clifford, Postdoctoral Research Fellow, Australian National University, College of Law; Associate Research Fellow, Information Law and Policy Centre, Institute of Advanced Legal Studies (University of London), damian.clifford@anu.edu.au
 - Jef Ausloos, Postdoctoral researcher, Institute for Information law (IViR), University of Amsterdam, j.ausloos@uva.nl.
-- Laurence Naudts, Doctoral researcher, Centre for IT & IP Law (CiTiP), KU Leuven, laurens.naudts@kuleuven.be.
+- Laurens Naudts, Doctoral researcher, Centre for IT & IP Law (CiTiP), KU Leuven, laurens.naudts@kuleuven.be.
 
 
 ### Slides
