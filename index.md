@@ -38,4 +38,4 @@ The purpose of this tutorial is to analyse the fairness principle in the GDPR as
 
 ### Slides
 
-Slides for the tutorial [available here](https://github.com/fat2020tutorials/fairness-in-dp-law/raw/master/Clifford.Ausloos.Naudts_What%20does%20'fairness'%20mean%20in%20(data%20protection)%20law.FAT%20Tutorial.pptx).
+Slides for the tutorial [available here](https://github.com/fat2020tutorials/fairness-in-dp-law/blob/master/Clifford.Ausloos.Naudts_What%20does%20'fairness'%20mean%20in%20(data%20protection)%20law.FAT%20Tutorial%20revLNF.pptx).
